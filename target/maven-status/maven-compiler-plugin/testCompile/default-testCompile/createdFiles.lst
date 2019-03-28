@@ -1,0 +1,7 @@
+Pages\FacebookWelcomePage.class
+Pages\BasicActions.class
+TestRunners\TestRunnerFacebook.class
+TestRunners\TestDefaultValues.class
+StepDefinitions\FacebookStepDefinitions.class
+StepDefinitions\MyStepdefsTest.class
+Pages\FacebookLoginPage.class
